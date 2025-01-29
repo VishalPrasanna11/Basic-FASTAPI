@@ -163,8 +163,4 @@ The API includes basic error handling:
 
 ## License
 
-[Add your chosen license here]
-
-## Contact
-
-[Add your contact information here]
+MIT License
